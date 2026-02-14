@@ -3,9 +3,9 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Backend Focused</h3>
 
 <p align="center">
-  <a href="https://yourportfolio.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/yourlink">LinkedIn</a> •
-  <a href="mailto:yourmail@gmail.com">Gmail</a>
+  
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/tanish-chavan-6733ab337/)">LinkedIn</a> •
+  <a href="mailto:tanishchavan06@gmail.com">Gmail</a>
 </p>
 
 ---
@@ -76,6 +76,6 @@ Currently building production-ready full-stack applications.
 
 ## 🤝 Connect With Me
 
-📧 Email: yourmail@gmail.com  
-🌐 Portfolio: https://yourportfolio.com  
-💼 LinkedIn: https://linkedin.com/in/yourlink
+📧 Email: tanishchavan06@gmail.com  
+
+💼 LinkedIn: [https://linkedin.com/in/yourlink](https://www.linkedin.com/in/tanish-chavan-6733ab337/)
