@@ -63,12 +63,7 @@ I enjoy building complete systems — from database design to secure API develop
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishchavan07&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishchavan07&theme=tokyonight" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" /> </p>
 ---
 
 ## 🤝 Connect With Me
