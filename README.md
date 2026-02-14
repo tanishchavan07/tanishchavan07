@@ -27,7 +27,6 @@ Currently building production-ready full-stack applications.
 
 ### 💻 Languages
 - JavaScript
-- Java
 - Python
 
 ### ⚙ Backend
