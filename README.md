@@ -78,4 +78,4 @@ Currently building production-ready full-stack applications.
 
 📧 Email: tanishchavan06@gmail.com  
 
-💼 LinkedIn: [https://linkedin.com/in/yourlink](https://www.linkedin.com/in/tanish-chavan-6733ab337/)
+💼 LinkedIn: https://www.linkedin.com/in/tanish-chavan-6733ab337/
