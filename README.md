@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanish-chavan-6733ab337/">LinkedIn</a> •
-  <a href="mailto:tanishchavan06@gmail.com">Gmail</a>
+  <a href="mailto:tanishchavan06@gmail.com">Gmail</a> •
+  <a href="https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/">Portfolio</a>
 </p>
 
 ---
@@ -18,6 +19,13 @@
 🧩 Focused on clean architecture & production-ready systems  
 
 I enjoy building complete systems — from database design to secure API development and responsive frontend.
+
+---
+
+## 🌐 Portfolio
+
+🚀 Check out my work here:  
+👉 **https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/**
 
 ---
 
@@ -58,11 +66,10 @@ I enjoy building complete systems — from database design to secure API develop
 ### 🚗 Car Dekho Clone
 ✔ Car listing & advanced filtering  
 
-
-
-
+---
 
 ## 🤝 Connect With Me
 
 📧 Email: tanishchavan06@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/tanish-chavan-6733ab337/
+💼 LinkedIn: https://www.linkedin.com/in/tanish-chavan-6733ab337/  
+🌐 Portfolio: https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/
