@@ -1,75 +1,78 @@
-<h1 align="center">👋 Hey there, I'm Tanish Chavan 🚀</h1>
+# 👋 Hey there, I'm Tanish Chavan 🚀
 
-<h3 align="center">Full Stack Developer | MERN Stack | Backend Focused</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;BSc+Computer+Science+Student;Backend+Focused+Developer;Problem+Solver+%26+Builder" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanish-chavan-6733ab337/">LinkedIn</a> •
-  <a href="mailto:tanishchavan06@gmail.com">Gmail</a> •
-  <a href="https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/">Portfolio</a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-chavan-6733ab337/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishchavan06@gmail.com)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-🎓 BSc Computer Science Student  
-💻 Full Stack Developer (MERN Stack)  
-🔐 Strong in Backend, REST APIs & Authentication  
-⚡ Passionate about scalable real-world applications  
-🧩 Focused on clean architecture & production-ready systems  
+🎓 BSc **Computer Science student**  
+💻 **Full Stack Developer (MERN Stack)**  
+🔐 Strong in **Backend, REST APIs & Authentication**  
+⚡ Passionate about **scalable real-world applications**  
+🧩 Focused on **clean architecture & production-ready systems**  
 
 I enjoy building complete systems — from database design to secure API development and responsive frontend.
 
 ---
 
-## 🌐 Portfolio
-
-🚀 Check out my work here:  
-👉 **https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/**
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### ⚙ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+---
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### ☁ Tools & Platforms
+### ☁️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 
 ---
 
-## 📌 Featured Projects
+## 🧩 Core Strengths
+- Full Stack Web Development  
+- REST API Design & Backend Architecture  
+- Authentication & Security (JWT)  
+- Scalable System Design  
+- Clean Code & Project Structure  
 
-### 🏥 Clinic Management System
-✔ Role-based authentication (Doctor, Patient, Receptionist)  
-✔ Secure JWT login system  
-✔ Appointment lifecycle management  
-✔ Medical report generation  
-✔ RESTful API architecture  
-
-### 🚗 Car Dekho Clone
-✔ Car listing & advanced filtering  
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Education
+🎓 **BSc Computer Science**  
+_Current Student_
 
-📧 Email: tanishchavan06@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/tanish-chavan-6733ab337/  
-🌐 Portfolio: https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/
+---
+
+## 📬 Let’s Connect
+💡 Always open to collaboration, learning, and building impactful tech.
+
+📧 Email: `tanishchavan06@gmail.com`  
+🌐 Portfolio: https://portfolio-three-zeta-x2h9wbi2pr.vercel.app/  
+
+---
+
+⭐ If you like my work, consider starring my repositories!
