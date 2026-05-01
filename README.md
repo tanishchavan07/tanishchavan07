@@ -40,14 +40,14 @@ I enjoy building complete systems — from database design to secure API develop
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
+![Supabase]
 ---
 
 ### ☁️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=render)
 
 ---
 
